@@ -1,11 +1,9 @@
-# ading2210's Website Source
-
-This repository provides the source code for [ading.dev](https://ading.dev).
+# AstroQD's Website Source
 
 ## Copyright:
 
 ```
-ading2210/website-rewrite
+BeastYTX/web
 Copyright (C) 2023 ading2210
 
 This program is free software: you can redistribute it and/or modify
